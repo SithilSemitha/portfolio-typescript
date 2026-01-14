@@ -5,8 +5,6 @@
 
 A clean and minimal personal portfolio built with **TypeScript**.
 
-**[Live Demo »](https://www.google.com/search?q=https://your-link-here.com)**
-
 ## 🛠 Tech Stack
 
 * **Language:** TypeScript
